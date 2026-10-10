@@ -60,3 +60,5 @@ telexbe_staging
 
 *.code-workspace
 branch_structure.json
+config.bat
+node_modules
